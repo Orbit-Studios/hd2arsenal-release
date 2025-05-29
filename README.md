@@ -23,4 +23,4 @@ This repository hosts official releases of **HD2 Arsenal**, a Helldivers 2 Mod M
 
 *This repo is release-only. Development happens privately or in a separate repo.*
 
-![Support Arsenal on Ko-Fi](https://i.imgur.com/PBt4AfS.png "Support HD2 Arsenal on Ko-Fi")
+[![Support Arsenal on Ko-Fi](https://i.imgur.com/PBt4AfS.png "Support HD2 Arsenal on Ko-Fi")](https://ko-fi.com/crystal2k)
