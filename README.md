@@ -21,6 +21,6 @@ This repository hosts official releases of **HD2 Arsenal**, a Helldivers 2 Mod M
 - [HD2 Arsenal Official Discord](https://discord.gg/u3nZqQuJsj)
 - [HD2 Modding Community Discord](https://discord.gg/ZwjPaZNwH7)
 
-*This repo is release-only. Development happens privately or in a separate repo.*
+*This repo is release-only. Development happens privately, in a separate repo.*
 
 [![Support Arsenal on Ko-Fi](https://i.imgur.com/PBt4AfS.png "Support HD2 Arsenal on Ko-Fi")](https://ko-fi.com/crystal2k)
